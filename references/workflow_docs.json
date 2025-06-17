@@ -1,0 +1,89 @@
+{
+  "workflows": [
+    {
+      "name": "video_icon_generation",
+      "description": "Generate an icon image for video content. All requirements already specified in the workflow. Any video icon generation will use this workflow.",
+      "parameters": [
+        {
+          "name": "icon_description",
+          "type": "string",
+          "required": true,
+          "purpose": "A description of the icon to be generated for video",
+          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc."
+        }
+      ]
+    },
+    {
+      "name": "square_icon_generation",
+      "description": "Generate a square-shaped icon image. All requirements already specified in the workflow. Any square icon generation will use this workflow.",
+      "parameters": [
+        {
+          "name": "icon_description",
+          "type": "string",
+          "required": true,
+          "purpose": "A description of the square icon to be generated",
+          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc."
+        }
+      ]
+    },
+    {
+      "name": "circle_icon_generation",
+      "description": "Generate a circular icon image. All requirements already specified in the workflow. Any circular icon generation will use this workflow.",
+      "parameters": [
+        {
+          "name": "icon_description",
+          "type": "string",
+          "required": true,
+          "purpose": "A description of the circular icon to be generated",
+          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc."
+        }
+      ]
+    },
+    {
+      "name": "badge_icon_generation",
+      "description": "Generate a badge-style icon image. All requirements already specified in the workflow. Any badge icon generation will use this workflow.",
+      "parameters": [
+        {
+          "name": "icon_description",
+          "type": "string",
+          "required": true,
+          "purpose": "A description of the badge icon to be generated",
+          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc."
+        }
+      ]
+    },
+    {
+      "name": "script_writing",
+      "description": "Writing course script. All requirements already specified in the workflow.",
+      "parameters": [
+        {
+          "name": "course_folder_link",
+          "type": "URL",
+          "required": true,
+          "purpose": "the folder in which the course script will be stored",
+          "details": "This should be a link to the folder where user put course outline and research documents. This folder link will be provided by user."
+        }
+      ]
+    },
+    {
+      "name": "script_editing",
+      "description": "Editing course script. All requirements already specified in the workflow.",
+      "parameters": [
+        {
+          "name": "lesson_script_document_id",
+          "type": "string",
+          "required": true,
+          "purpose": "the id of the Google Docs file which contains the lesson script to be edited",
+          "details": "This should be the ID of the Google Docs file that contains the lesson script to be edited. You must provide this ID using the `get_file_id` tool based on the folder link (provided by the user) and lesson script filename"
+        },
+        {
+          "name": "editing_message",
+          "type": "string",
+          "required": true,
+          "purpose": "include the ways and aspects of the editing from the user",
+          "details": "This should include the specific ways and aspects of the editing that the user wants to apply to the lesson script. For example, it can be a request to change the tone, add more details, or correct grammar, etc."
+        }
+      ]
+    }
+  ]
+}

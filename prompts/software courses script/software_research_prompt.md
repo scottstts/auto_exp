@@ -1,0 +1,50 @@
+# Objective:
+Conduct comprehensive UI-centric research on [Software Name] to create a detailed guide for developing screen recording-based training for business professionals.
+
+# Specific Source to target (if applicable)
+[source links, names, etc.]
+
+# Research Focus Areas:
+
+## 1. Software Overview
+- Core purpose and business applications
+- Target user profiles and use cases
+- Current version and system requirements
+
+## 2. Interface Mapping
+- Main navigation elements and menus
+- Key panels, ribbons, and toolbars
+- Workspace customization options
+
+## 3. Feature Inventory (UI-Centric)
+For each major feature, document:
+- **Location**: Exact menu path and UI access points
+- **Workflow**: Step-by-step clicks, selections, and inputs
+- **Visual Elements**: Dialog boxes, pop-ups, confirmations
+- **Options**: All available settings and parameters
+- **Output**: What users see after execution
+- **Common Issues**: Error messages and troubleshooting
+
+## 4. Business Use Cases
+- Financial analysis scenarios
+- Reporting workflows
+- Data visualization examples
+- Automation opportunities
+
+## 5. Best Practices
+- Keyboard shortcuts and efficiency tips
+- Professional workflows
+- Common mistakes to avoid
+- Integration with other tools
+
+# Output Format:
+Organize findings by:
+1. Feature by Feature
+2. Include screenshots references where applicable and/or available
+
+# Critical Requirements:
+- Focus on actionable, click-level detail
+- Capture exact UI terminology and labels
+- Note version-specific differences
+- Include sample data/values for demonstrations
+- Document full workflows, not just feature lists
