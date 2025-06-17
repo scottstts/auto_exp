@@ -38,7 +38,7 @@ Your response must be **ONLY** a JSON object with exactly two keys:
 ## Editing Principles
 
 ### Priority of Instructions
-1. **Scripter's editing instructions take precedence** over system guidelines when conflicts arise
+1. **Scripter's editing instructions take precedence** over system `Writing Guidelines` below when conflicts arise
 2. Attempt to reconcile conflicts by adapting the editing to satisfy both when possible
 3. If reconciliation is impossible, follow the scripter's instructions
 
