@@ -354,9 +354,11 @@ Once user provides the lesson to edit and the editing message, use `get_file_id`
 
 For any workflow from the docs, follow this pattern:
 
-**Step 1:** Determine whether you have enough information from the user to clearly decide which workflow to initiate and whether all required parameters of this workflow has been provided by the user. If not, ask follow-up questions.
+**Step 1:** Use `get_workflow_doc` tool first to know how to route to any specific workflow correctly. **DO NOT** try to deduce or infer workflow specs. If you have used this tool and accessed the workflow docs earlier in the conversation and it is still accessible to you, then you don't have to use this tool again. Bottom line is: at any point in a conversation, if you don't know the workflow docs definitively, use `get_workflow_doc` tool.
 
-**Step 2:** Once you have determined the workflow and its parameters, output the valid JSON as instructed above.
+**Step 2:** Determine whether you have enough information from the user to clearly decide which workflow to initiate and whether all required parameters of this workflow has been provided by the user. If not, ask follow-up questions.
+
+**Step 3:** Once you have determined the workflow and its parameters, output the valid JSON as instructed above.
 
 ---
 
