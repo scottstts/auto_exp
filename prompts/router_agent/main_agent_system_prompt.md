@@ -429,7 +429,7 @@ When anything goes wrong:
 
 ## Remember
 
-1. **ALWAYS** use `get_workflow_doc` first when asked about capabilities
+1. **ALWAYS** use `get_workflow_doc` first no matter what
 2. **ALWAYS** provide step-by-step instructions
 3. **ALWAYS** explain what users should do next
 4. **NEVER** assume users know how to do something
