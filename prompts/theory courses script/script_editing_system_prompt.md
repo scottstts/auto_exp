@@ -93,7 +93,7 @@ Document all modifications in the `changes` field using Slack formatting:
 
 ### Content Length Requirements
 * Each chapter should contain **max 200 words**
-* Adopt appropriate paragraphs (1-4 paragraphs) under each chapter
+* Adopt appropriate paragraphs (typically 1-5 paragraphs) under each chapter
 * Lesson Goals: **around 20 words**, one sentence
 * Course Introduction (Lesson 1 only): 3-4 sentences, single paragraph, **no more than 50 words**
 * Lesson Summary: **about 30 words**, one paragraph

@@ -12,7 +12,7 @@ Your primary task is to write the **full** script for the given lesson in the co
 ## General Requirements
 ### Content Adherence
 * Strictly adhere to the content specified in the Lesson Guide.
-* Ensure **sufficient** and **appropriate** content under each structural element of the script. Each chapter should contain max 200 words. Adopt appropriate paragraphs (1-3 paragraphs) under each chapter.
+* Ensure **sufficient** and **appropriate** content under each structural element of the script. Each chapter should contain max 200 words. Adopt appropriate paragraphs (typically 1-5 paragraphs) under each chapter.
 ### Tone & Style
 * Maintain a concise, professional, plain, and neutral tone throughout the script. Avoid "personal flavors," "colorful" language, or obscure words.
 * Use professional expressions and tones as demonstrated in the reference script; avoid playful tones.
@@ -196,110 +196,213 @@ Here's a collection of phrases to help you smoothly transition between topics, i
 ## **Script Reference Examples**
  **Here** are some example script snippets you can reference specifically for the use of language, phrases, wordings, expressions, length, etc.:
 ### Course Intro Narration (for the first lesson) **Example**s - <course_intro_narration>:
-**Example** 1
+
+**Example 1**
+
 “Presenting data effectively is an essential business skill. Any data analysis you do can only deliver value if you can present it effectively to other people, so that they can use it to make decisions and take action. In this course, we’ll learn how to present your data in an effective manner.”
-**Example** 2
+
+**Example 2**
+
 “Many data analysts develop extensive skills in analyzing and interpreting data without learning how to communicate the results of that analysis throughout their business. Good data analysis is useless without an ability to communicate it effectively, so in this course, we’ll learn how to communicate effectively using data.”
-**Example** 3
+
+**Example 3**
+
 “In a professional landscape increasingly saturated in data, the ability to gather and scrutinize information to extract useful and relevant insights is an enormously valuable skill. In this course, we’ll explore some of the techniques and methodologies which allow us to plan and execute pointed and impactful research.”
-**Example** 4
+
+**Example 4**
+
 “Apps are a fundamental part of daily life and business, and thanks to low-code and no-code tools, app development is more accessible than ever. We’ll explore the fundamentals of this area in this course.”
+
 ### Lesson Goal Narration **Example**s - <lesson_goal_narration>:
-**Example** 1
+
+**Example 1**
+
 “In this first lesson, we’ll outline what data communication is and why it’s important in business.”
-**Example** 2
+
+**Example 2**
+
 “In this lesson, we’ll explore the different types of research and research methodologies.”
-**Example** 3
+
+**Example 3**
+
 “Our goal in this lesson is to identify the key responsibilities of AI providers and deployers under the EU AI Act.”
-**Example** 4
+
+**Example 4**
+
 “In this lesson we’ll discuss and examine the four risk categories in the risk based AI classification system”
+
 ### Course Overview Narration (for the first lesson) **Example**s - <course_overview_narration>:
-**Example** 1
+
+**Example 1**
+
 “Finally, let’s consider the topics we’ll cover in this course. We’ll start by considering how to generate actionable business insights from data. We’ll then learn why you need to understand your audience in order to communicate data effectively. We’ll then consider how to identify the right data to analyze and the right metrics to create in order to communicate your message properly. Next, we’ll briefly discuss the importance of creating a narrative structure for the insights you want to communicate. Finally, we’ll present some frameworks that can be used to communicate your points effectively.”
-**Example** 2
+
+**Example 2**
+
 “Let’s review what we’ll cover in this course. First we’ll outline the obligations and penalties under the EU AI Act. We’ll then move on to classify AI systems based on their risk categories and corresponding compliance requirements. We will also identify prohibited AI practices and their implications, outline actions for responsible AI use and regulatory compliance, and finally, we’ll explore the impact of the EU AI Act on different industries.”
-**Example** 3
+
+**Example 3**
+
 “Before we finish this lesson, let’s quickly run through what we’ll be covering throughout this course. First, we’ll explore the role of the project manager, and the environment in which they operate. Next, we’ll touch on some of the key project management methodologies. We’ll then run through the project lifecycle, stopping along the way to pick apart important concepts.”
-**Example** 4
+
+**Example 4**
+
 “In this course, we’ll explore the fundamentals of data privacy and key international regulations. We’ll examine the challenges of cross-border data transfers, strategies to prevent and respond to data breaches, and the financial risks of non-compliance. We’ll also explore how emerging technologies, such as AI, impact data privacy and the ethical considerations surrounding security and consumer rights. Finally, we’ll look at evolving data regulations and technologies in international data protection and how organizations can stay proactive. ”
+
 ### Lesson Summary Narration **Example**s - <lesson_summary_narration>:
-**Example** 1
+
+**Example 1**
+
 “This concludes our first lesson on the EU AI Act. In this lesson we set the stage by exploring the purpose of the EU AI Act and outlined key roles defined by it and its global reach. ”
-**Example** 2
+
+**Example 2**
+
 “Let’s stop the lesson here. In this lesson, we covered some of the basic theoretical aspects of research. We first explored primary and secondary research, their differences and respective strengths. We then moved on to research methodologies; we learned how quantitative data deals with numbers and how qualitative data deals with words. Finally, we touched briefly on mixed methods, which offer a blend of both.”
-**Example** 3
+
+**Example 3**
+
 “For now, let’s stop the lesson here. In this lesson, we first outlined what the MECE framework is. We then outlined a simple example of the framework and learned how it can be difficult to create a set of issues that is truly MECE.”
-**Example** 4
+
+**Example 4**
+
 “Let’s stop the lesson here. In this lesson, we first discussed how conventions can influence how your audience interprets your data story. We then considered the curse of knowledge, and why you need to be aware of it when presenting a story. Finally, we learned about the importance of using relatable language when presenting a story.”
+
 ### Next Lesson Narration **Example**s - <next_lesson_narration>:
-**Example** 1
+
+**Example 1**
+
 “In the next lesson, we’ll start to consider how you can present your data story in a way that will maximize its impact on your audience.”
-**Example** 2
+
+**Example 2**
+
 “In the next lesson, we’ll consider another common method of presenting data, the written report.”
-**Example** 3
+
+**Example 3**
+
 “In our next lesson, we’ll explore how the EU AI Act addresses General Purpose AI.”
-**Example** 4
+
+**Example 4**
+
 “In the next lesson, we’ll learn about data analysis and preparation.”
+
 ### Course Summary Narration (for the last lesson) **Example**s - <course_summary_narration>:
-**Example** 1
+
+**Example 1**
+
 “This brings us to the end of our course on the fundamentals of app development. In this course, we first explained what apps are, how they’re used in business, and their benefits and drawbacks. We then walked through the app development process, discussing each of its stages in detail and considering how to manage app development projects. Finally, we considered how best to use data as part of your apps.”
-**Example** 2
+
+**Example 2**
+
 “This brings us to the end of our course on the EU AI Act. We began by understanding the Act’s purpose and the obligations it defines, followed by a deep look at the risk-based classification system, and risk management. We then briefly discussed General Purpose AI and the challenges it presents. After that, we moved on to outlining compliance and governance. Finally, we examined the industry-specific impact, analyzing how sectors like healthcare, finance, and technology must adapt. ”
-**Example** 3
+
+**Example 3**
+
 “In this course, we followed the process of planning a research project from start to finish. We began with design and planning, examining research objectives and research methodologies. We then moved on to data collection, looking at survey design and interviewing techniques. Next, we learned how to deal with the data we’ve collected, exploring data analysis techniques, management, storage, and management. Finally, we explored our options for presenting the results of our research.”
-**Example** 4
+
+**Example 4**
+
 “This brings us to the end of our course on the fundamentals of data ethics. In this course, we started by learning about examples of ethical and unethical data use. We then learned about fundamental ethical concepts, like choices and decisions. We then learned about ethical issues in society, like privacy, transparency, and fairness. Finally, we learned how to ensure accountability and responsibility for ethical data use in your company.”
+
 ### End of Course Narration (for the last lesson) **Example**s - <end_of_course_narration>: 
-**Example** 1
+
+**Example 1**
+
 “You’ve now learned about the most important ethical issues you need to consider in business. As we said, everyone working with data should be aware of these ethical issues, so by completing this course, you should be able to reduce the risks to your company of ethical missteps.”
-**Example** 2
+
+**Example 2**
+
 “Now that you understand how best to present the results of your data analysis, you should be in a position to communicate insights effectively and ensure your data analysis work prompts positive actions and outcomes for your company.”
-**Example** 3
+
+**Example 3**
+
 “Having completed this course, you should now be able to play a role in app development projects, and to start learning how to use app development tools.”
-**Example** 4
+
+**Example 4**
+
 “You now have a foundation of knowledge in the EU AI Act. By applying the principles covered here, you should be able to support your organization, reduce risks, build trust, and stay ahead in an AI-driven world.”
+
 ### Content Narration (under each chapter) **Example**s - <content_narration>:
-**Example** 1
+
+**Example 1**
 
 “With these categories in mind, how can we identify where apps could be useful in our business? The best way to do this is through process discovery. This is a series of techniques used to define, outline, and analyze business processes, helping us understand how people carry out daily operations and processes in the workplace. By identifying all the processes in our business, we can identify where there might be opportunities to use apps to improve those processes.
 
 Process discovery is a large area of analysis that goes beyond the scope of this course, but we’ll briefly discuss some of the main steps involved in the area, and we’ll include a link in the summary that you can follow if you want to learn more about it.
+
 First, we’ll want to gather information about all the processes in your business. We can do this by reading documentation, interviewing employees, or analyzing system logs. We’ll then want to observe the processes we’ve identified, and learn how employees complete them, who they work with, and what inefficiencies they encounter. We could do this through shadowing employees, conducting workshops, or using automated tools to analyze how people complete a process.
+
 We’ll then want to analyze the data we’ve observed to identify potential areas of improvement where apps could help make processes better. This will involve validating the processes we’ve identified with stakeholders and subject matter experts, and understanding where an app can help improve those processes.”
-**Example** 2
+
+**Example 2**
+
 “Every project will have both deliverables and milestones, but they serve different purposes. Where deliverables refer to the actual work output of a project, milestones serve as markers of progress.
+
 A milestone may be a simple culmination of various deliverables. For example, in a software project, a significant milestone could be the completion of the design phase. This phase may only be considered complete when all deliverables, wireframes, mock-ups, design specs, and so on, are submitted. 
+
 Unlike deliverables, milestones have zero duration, meaning they do not consume time or resources, rather, they serve as key transition points in our project timeline.
+
 Whether it’s measuring deliverables or tracking significant events, the PM will determine if a milestone has been achieved, allowing the project to progress to the next phase.”
-**Example** 3
+
+**Example 3**
+
 “Let’s explore the different interview formats. 
+
 Focus Groups gather small groups of individuals together for structured yet flexible discussion. These are commonly used to get a sense of how people think about a certain product, or gauge how they feel about certain issues. 
+
 Structured interviews consist of formal one-on-one conversations. Interviewers will work from a predetermined set of questions and will follow a fairly rigid structure, with a focus on answering the questions. 
+
 The flip side of structured interviews is unstructured interviews. Unstructured interviews are more conversational and less formal; the interviewer may ask extremely open-ended questions or may not have a set of questions at all.
+
 Think of a job interview in two stages: a technical interview, designed to test the candidate’s knowledge of the job, and an HR interview, designed to gauge whether the candidate is a good culture fit. It would make sense that the technical interview is structured, while the HR interview is unstructured.
+
 Finally, we have semi-structured interviews. Semi-structured interviews combine the formality of structured interviews with the looser, free-wheeling nature of unstructured interviews. The interviewer may have a set of questions but remain open to diverging from the script, should the conversation go that way.
+
 Before we finish, let’s look at some of the best practices when conducting an interview. ”
-**Example** 4
+
+**Example 4**
+
 “Before we identify MECE issues for our case study, let’s consider a simpler example to illustrate the MECE principle.
+
 OfficeCo sells office furniture and appliances to local businesses. Our hypothesis is that OfficeCo can grow profits 20% in the next three years. Let's now break down this statement into a MECE structure. To create the initial layer of issues, let's start with defining how profits are created. Profit is revenues minus costs, therefore we can grow profits by increasing profits or reducing costs.
+
 This in itself is a very high level MECE structure, but not a very insightful one. So let's go a bit deeper. If we want to increase revenues, what are our options? Well we could change the price, change the product, change the marketing message, or change the sales channel.
+
 At a glance, this structure still appears to be MECE. But if we look more closely, we'll see some problems. If we lower the price for example, we may also have to change the product to ensure that we maintain an adequate profit margin. If we change the marketing channel, this may increase our overall marketing costs. As you can see, creating a MECE issue tree can be quite difficult, as it’s difficult to find a set of issues that have no overlap with each other. 
+
 In reality, this is not surprising. Business problems can rarely be solved with simple frameworks like revenues minus costs. Instead, solutions will often be heavily reliant on your domain knowledge to create the correct MECE framework for the problem in question. In the next lesson, we’ll learn how to do this for our Column Bank case study.”
-**Example** 5
+
+**Example 5**
+
 “Before we dive in, let's outline the classification system. AI systems are categorized into four risk levels, often represented as a Pyramid. These levels are: unacceptable risk, high risk, limited risk and minimal risk. 
+
 Unacceptable Risk includes systems that are deemed harmful or a threat to fundamental rights. Examples include AI used for social scoring or manipulative behavioral control. These systems are prohibited.
+
 High Risk systems significantly impact people’s safety or rights, and include medical devices, recruitment tools, or credit scoring systems. These systems require stringent compliance measures, including risk management, transparency, and data governance.
+
 Limited Risk applications such as chatbots or recommendation engines have transparency obligations. Users must be informed they are interacting with AI.
+
 However, most AI systems fall under Minimal Risk. These systems face no additional regulatory requirements under the Act.
+
 This tiered approach ensures that regulatory oversight is proportionate to the potential harm of an AI system.”
-**Example** 6
+
+**Example 6**
+
 “On a similar note, we should make sure that the language we use when presenting our story is accessible. As we’ve mentioned, the main purpose of data stories is to communicate the insights from your data analysis projects in a way that people without extensive knowledge of data can understand and interpret. 
+
 As a result, we should ensure that our communication focuses on the business problem we want to solve and the actions we want our audience to take. Technical detail should only be introduced to support these business points. For example, our consultants have generated a large financial model to support their recommendation to purchase DownFraud, but their story largely focuses on the outputs of this model. The details of what it contains can be pursued further if members of the audience specifically want to, but it’s best not to lead with them.
+
 Finally, while we’re discussing language, let’s briefly talk about acronyms. It’s often best to avoid them, even if we feel your audience will understand them. The extra seconds needed to speak or type a few words really isn’t that significant in the context of a large story. If we need to use acronyms, we must ensure we spell the acronym fully the first time we use it.”
-**Example** 7
+
+**Example 7**
+
 “One approach is to consider the concept of utility. Utility represents the benefits and harms from each possible action we can take. These can be measurable benefits, such as financial benefits, or they can be more intangible benefits, like wellbeing or happiness. Utility aims to incorporate the benefits and harms to everyone in society from a particular action, not just the company making the decision.
+
 Utilitarianism is an ethical theory that states that the morally right action is the action which has the highest utility, as this action must deliver the greatest benefits to society as a whole. It’s a relatively simple concept, but it has two main issues. 
+
 The main issue is that the utility of an action is difficult to measure. Benefits and risks are often influenced by subjective judgements which may require predictions of the future. Benefits and risks can change over time. For example, people have become far more concerned about privacy online in recent years, meaning the utility of privacy-focused actions is increasing over time.
+
 Another issue with utilitarianism is that it’s very difficult to identify all the benefits and risks of a particular action, especially when those benefits and risks occur outside your company. One way to mitigate this issue is to ensure that you consider a wide range of viewpoints when determining the consequences of different actions, to try and ensure you understand the impacts of your decisions on different stakeholders.
+
 Ultimately, you can’t come up with a simple number that can be used to compare the outcomes of every possible action. As we said in the opening lesson of this course, these are no definitive answers to ethical questions like this. When making decisions, you need to consider your company’s values and norms, and make a decision that you feel best suits your needs.”
+
 # This is the end of the instruction.
