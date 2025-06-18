@@ -8,8 +8,10 @@
           "name": "icon_description",
           "type": "string",
           "required": true,
+          "provided_by": "user",
           "purpose": "A description of the icon to be generated for video",
-          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc."
+          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc.",
+          "suggestions": "For best results, user should specify the accent color"
         }
       ]
     },
@@ -21,8 +23,10 @@
           "name": "icon_description",
           "type": "string",
           "required": true,
+          "provided_by": "user",
           "purpose": "A description of the square icon to be generated",
-          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc."
+          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc.",
+          "suggestions": "For best results, user should literally specify the color for the base and element of the icon, e.g., 'use green base and element'"
         }
       ]
     },
@@ -34,8 +38,10 @@
           "name": "icon_description",
           "type": "string",
           "required": true,
+          "provided_by": "user",
           "purpose": "A description of the circular icon to be generated",
-          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc."
+          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc.",
+          "suggestions": "For best results, user should literally specify the color for the base and element of the icon, e.g., 'use green base and element'"
         }
       ]
     },
@@ -47,8 +53,10 @@
           "name": "icon_description",
           "type": "string",
           "required": true,
+          "provided_by": "user",
           "purpose": "A description of the badge icon to be generated",
-          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc."
+          "details": "This can be as simple as a single word, or as complex as a detailed description including elements, composition, accent color, etc.",
+          "suggestions": "For best results, user should literally specify the color for the base and element of the icon, e.g., 'use green base and element'"
         }
       ]
     },
@@ -60,8 +68,10 @@
           "name": "course_folder_link",
           "type": "URL",
           "required": true,
+          "provided_by": "user",
           "purpose": "the folder in which the course script will be stored",
-          "details": "This should be a link to the folder where user put course outline and research documents. This folder link will be provided by user."
+          "details": "This should be a link to the folder where user put course outline and research documents. This folder link will be provided by user.",
+          "suggestions": "user may put an additional Google Docs file in the same folder containing nuanced and custom instructions about this script. It could be as detailed as needed"
         }
       ]
     },
@@ -73,6 +83,7 @@
           "name": "lesson_script_document_id",
           "type": "string",
           "required": true,
+          "provided_by": "AI Agent",
           "purpose": "the id of the Google Docs file which contains the lesson script to be edited",
           "details": "This should be the ID of the Google Docs file that contains the lesson script to be edited. You must provide this ID using the `get_file_id` tool based on the folder link (provided by the user) and lesson script filename"
         },
@@ -80,8 +91,10 @@
           "name": "editing_message",
           "type": "string",
           "required": true,
+          "provided_by": "user",
           "purpose": "include the ways and aspects of the editing from the user",
-          "details": "This should include the specific ways and aspects of the editing that the user wants to apply to the lesson script. For example, it can be a request to change the tone, add more details, or correct grammar, etc."
+          "details": "This should include the specific ways and aspects of the editing that the user wants to apply to the lesson script. For example, it can be a request to change the tone, add more details, or correct grammar, etc.",
+          "suggestions": "For best results, prompt the user to be specific and accurate in editing instructions. Vague or self-conflicting instructions lead to vague or self-conflicting results"
         }
       ]
     }
