@@ -74,7 +74,7 @@ For every lesson in the provided outline, structure its section using the follow
 ### Next lesson 
 [What features/topics will be introduced next]
 ### Will cover 
-[Summary of upcoming lesson titles]
+[A list of all upcoming lessons, must be the full list]
 ```
 
 ## For Screen Recording Lessons (body lessons):
@@ -85,7 +85,7 @@ For every lesson in the provided outline, structure its section using the follow
 ### Last lesson 
 [What features/functions were covered in the last lesson]
 ### Introduced
-[Summary of all features learned in previous lessons]
+[List of all features learned in previous lessons, must be the full list]
 [For vertical approach: Current status of the case study]
 
 ## This lesson [number of features based on input structure or max 3 if not specified]
@@ -143,7 +143,7 @@ For every lesson in the provided outline, structure its section using the follow
 [What features will be introduced next]
 [For vertical approach: How the case study will progress]
 ### Will cover 
-[Summary of remaining lessons]
+[List of remaining lessons, must be the full list]
 ```
 
 ## For Conclusion/Best Practices Lessons:
@@ -154,7 +154,7 @@ For every lesson in the provided outline, structure its section using the follow
 ### Last lesson 
 [Final features covered]
 ### Introduced
-[Comprehensive summary of all features learned]
+[Comprehensive list of all features learned, must be the full list]
 [For vertical approach: Final case study outcome]
 
 ## This lesson
