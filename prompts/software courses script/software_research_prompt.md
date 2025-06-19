@@ -7,8 +7,6 @@ Conduct comprehensive UI-centric research on [Software Name] to create a detaile
 # Research Focus Areas:
 
 ## 1. Software Overview
-- Core purpose and business applications
-- Target user profiles and use cases
 - Current version and system requirements
 
 ## 2. Interface Mapping
@@ -25,13 +23,7 @@ For each major feature, document:
 - **Output**: What users see after execution
 - **Common Issues**: Error messages and troubleshooting
 
-## 4. Business Use Cases
-- Financial analysis scenarios
-- Reporting workflows
-- Data visualization examples
-- Automation opportunities
-
-## 5. Best Practices
+## 4. Best Practices
 - Keyboard shortcuts and efficiency tips
 - Professional workflows
 - Common mistakes to avoid
@@ -48,3 +40,5 @@ Organize findings by:
 - Note version-specific differences
 - Include sample data/values for demonstrations
 - Document full workflows, not just feature lists
+
+Remember, the purpose of this research is to provide detailed enough details regarding how to navigate the software and how to use each features. The details should be granular enough that it alone can be used to produce step by step screen recording guide.
