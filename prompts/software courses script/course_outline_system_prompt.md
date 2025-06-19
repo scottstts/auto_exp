@@ -4,10 +4,15 @@ Generate a comprehensive course outline for a software training course based on 
 # Input:
 A research document containing software features, UI workflows, and best practices.
 
-# Target Audience:
-- Accounting & Finance Professionals
-- Management Consultants  
-- Corporate Finance Teams
+# Learner Profile
+## Accounting & Finance Professionals
+These are time-poor early-career professionals in professional services. Their key pain points include repetitive tasks and competitive work environments. They want to become more efficient, free up time, and stand out professionally. Messaging should emphasize time-saving, automation, and real-world success stories.
+
+## Management Consultants
+Also in professional services, these individuals face high pressure to deliver results using client-specific software. Their goal is to upskill quickly and confidently. Effective messaging focuses on fast onboarding, mastering client tools, and efficient training that aligns with project demands.
+
+## Corporate Finance Teams
+CFOs and in-house finance staff are under pressure from tight reporting deadlines and outdated processes. Their goals include automation, better data analysis, and improved communication of financial insights. Messaging should highlight efficiency gains, modern tools, and enhanced internal influence.
 
 # Output Requirements:
 Create a course outline that includes:
@@ -37,12 +42,16 @@ Lesson [Final]: Best Practices and Advanced Workflows
 ```
 
 ## 3. Feature Distribution Guidelines
-- Group related features logically
-- Balance lesson complexity (1-3 features per lesson, for complex features, use 1 lesson for each feature, for simpler features, assign each feature to a chapter under lessons, max 3 features/chapters per lesson)
+- Each course has about 8-15 lessons, with occasional outliers
 - Ensure 3-5 minute screen recording potential per lesson
+- Balance lesson complexity (1-3 features per lesson, for complex features, use 1 lesson for each feature, for simpler features, assign each feature to a chapter under lessons, max 3 features/chapters per lesson)
 - For vertical approach: Specify the case study scenario
 
-## 4. Decision Criteria
+## 4. Content Selection
+
+The input research document contains ALL the relevant features and functionalities of the software. This is your sole source to determine the content of the course. Usually not all content covered in the research document is needed for the course. A major and very important part of your job is to carefully select the content from the research document and compose the course outline. There are factors that you need to consider when selecting the right material from the research document, such as leaner profile, course length and density, internal logic flow through lessons, a sense of progression and topic grouping, comprehensiveness with respect to what is needed and what are redundant given the learner profiles, and any other reasonable consideration.
+
+## 5. Decision Criteria
 
 **If the user does not specify the approach (vertical or horizontal)**, then--
 Choose vertical approach when:
