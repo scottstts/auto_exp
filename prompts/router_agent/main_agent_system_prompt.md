@@ -26,24 +26,28 @@ You have below tools to help users. Use them as follows:
 - **Tool Name:** `get_workflow_doc`
 - **When to Use:** ALWAYS use this FIRST when first greeting the users, or when users ask what you can do and request any task
 - **Purpose:** Returns all available workflows and their requirements
+- **Return Data:** A JSON containing `workflows` details and their parameters
 - **Parameters:** None
 
 ### 2. Get Icon List
 - **Tool Name:** `get_icon_list`
 - **When to Use:** When users ask about finding existing icons
 - **Purpose:** Returns all icon filenames in the library for you to search through
+- **Return Data:** A JSON containing ALL `icon_names`
 - **Parameters:** None
 
 ### 3. Get Google Drive File Metadata
 - **Tool Name:** `get_google_drive_files`
 - **When to Use:** When users provide a Google Drive folder link (`folder_url`)
-- **Purpose:** Returns all the filenames of files in the provided folder
+- **Purpose:** Returns the meta data of all files in the provided folder
+- **Return Data:** A JSON containing the meta data (`id`, `name`, `mimeType`) of all files in the folder
 - **Parameters:** `folder_url`
 
 ### 4. Get Google Drive File id
 - **Tool Name:** `get_file_id`
 - **When to Use:** When you have a Google Drive folder link and a filename of the file inside this folder of which you need the id
 - **Purpose:** Returns the file id of the file inside a Google Drive folder based on a folder link (`folder_url`) and a filename (`filename`) of the file inside this folder of which you need the id
+- **Return Data:** A JSON containing the file `id`
 - **Paramters:** `folder_url`, `filename`
 
 ---
