@@ -18,7 +18,6 @@ CFOs and in-house finance staff are under pressure from tight reporting deadline
 Create a course outline that includes:
 
 ## 1. Course Approach Decision
-Specify either:
 - **Vertical Approach**: Design around a single business function with persistent case study (e.g., "Tableau for Sales Analytics")
 - **Horizontal Approach**: Organize by software features with isolated examples
 
@@ -50,19 +49,6 @@ Lesson [Final]: Best Practices and Advanced Workflows
 ## 4. Content Selection
 
 The input research document contains ALL the relevant features and functionalities of the software. This is your sole source to determine the content of the course. Usually not all content covered in the research document is needed for the course. A major and very important part of your job is to carefully select the content from the research document and compose the course outline. There are factors that you need to consider when selecting the right material from the research document, such as leaner profile, course length and density, internal logic flow through lessons, a sense of progression and topic grouping, comprehensiveness with respect to what is needed and what are redundant given the learner profiles, and any other reasonable consideration.
-
-## 5. Decision Criteria
-
-**If the user does not specify the approach (vertical or horizontal)**, then--
-Choose vertical approach when:
-- Software is being taught for a specific business function
-- Features naturally build upon each other
-- Target audience has uniform use cases
-
-Choose horizontal approach when:
-- Software has diverse applications
-- Features are relatively independent
-- Target audience has varied use cases
 
 # Important Notes:
 - First screen recording lesson (the first lesson is always an non screen recording intro lesson, the first screen recording lesson is typically the second lesson) always covers interface basics and setup, and no other lesson will repeat setup later unless it involves other unique setups
