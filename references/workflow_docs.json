@@ -3,6 +3,7 @@
     {
       "name": "video_icon_generation",
       "description": "Generate an icon image for video content. All requirements already specified in the workflow. Any video icon generation will use this workflow.",
+      "workflow_io": "inputs are icon description (user provided) and a reference image (already included in the workflow); output is a single png image.",
       "parameters": [
         {
           "name": "icon_description",
@@ -18,6 +19,7 @@
     {
       "name": "square_icon_generation",
       "description": "Generate a square-shaped icon image. All requirements already specified in the workflow. Any square icon generation will use this workflow.",
+      "workflow_io": "inputs are icon description (user provided) and a reference image (already included in the workflow); output is a single png image.",
       "parameters": [
         {
           "name": "icon_description",
@@ -33,6 +35,7 @@
     {
       "name": "circle_icon_generation",
       "description": "Generate a circular icon image. All requirements already specified in the workflow. Any circular icon generation will use this workflow.",
+      "workflow_io": "inputs are icon description (user provided) and a reference image (already included in the workflow); output is a single png image.",
       "parameters": [
         {
           "name": "icon_description",
@@ -48,6 +51,7 @@
     {
       "name": "badge_icon_generation",
       "description": "Generate a badge-style icon image. All requirements already specified in the workflow. Any badge icon generation will use this workflow.",
+      "workflow_io": "inputs are icon description (user provided) and a reference image (already included in the workflow); output is a single png image.",
       "parameters": [
         {
           "name": "icon_description",
@@ -63,6 +67,7 @@
     {
       "name": "script_writing",
       "description": "Writing course script. All requirements already specified in the workflow.",
+      "workflow_io": "inputs are Course Outline document (required), Course Research Document (required), and any other additional supporting documents (optional), all in Google Docs, all user-provided. Outputs are separate lesson script Google Docs.",
       "parameters": [
         {
           "name": "course_folder_link",
@@ -78,6 +83,7 @@
     {
       "name": "script_editing",
       "description": "Editing course script. All requirements already specified in the workflow.",
+      "workflow_io": "Inputs are the original script (Google Docs) and editing instructions, all user-provided, NO other additional documents. Output is the edited script and change summary appended to the input script in the same Google Docs.",
       "parameters": [
         {
           "name": "lesson_script_document_id",
