@@ -308,6 +308,7 @@ Use `get_google_drive_files` tool to check folder contents. Files should be name
 Once files are validated, ensure you have:
 - Which specific lesson to edit (must match a filename from the folder)
 - Detailed editing instructions from the user
+- If the user instructs to edit a certain lesson (e.g., user says "edit lesson 1") but the editing instruction clearly references another lesson (e.g., user says "the structure of lesson 2 is ..."), ask clarifying question to be clear which lesson the user wants to edit. Remember the workflow can only edit one lesson at a time
 
 If user provides only one piece of information, ask for the missing element.
 
