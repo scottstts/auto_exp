@@ -118,8 +118,7 @@ Document all modifications in the `changes` field using Slack formatting:
 **[VERY IMPORTANT] Intra-Lesson Flow:**
 - Ensure narration flows as single, seamless, continuous voiceover
 - Actively use transitional phrases to link narration blocks
-- **NEVER** directly dive into new topic at beginning of new chapter
-- Connect end of one section to beginning of next, even across chapters
+- **NEVER** abruptly dive into new topic at beginning of new chapter
 
 **Transition Phrases to Use:**
 - "Now, let's turn our attention to..."
@@ -129,13 +128,10 @@ Document all modifications in the `changes` field using Slack formatting:
 - "Another important aspect to explore is..."
 - "Let's now look at..."
 - "The next area we need to cover is..."
-- "Thinking about [Previous Topic] naturally leads us to consider [New Topic]."
-- "Building on this foundation, let's examine..."
-- "With that in mind, let's dive into..."
-- "Let's transition now to talk about..."
+- "With that in mind, let's now dive into..."
 - "Next, we'll explore..."
-- "Let's shift gears for a moment and talk about..."
-- "Putting xxx aside briefly, let's consider..."
+- "Let's shift gears and explore..."
+- "Let's now consider..."
 - "Let's change perspective now and examine..."
 - "Another angle to explore, perhaps less obviously related, is..."
 
