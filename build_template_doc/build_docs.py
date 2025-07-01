@@ -62,9 +62,16 @@ async def process_template(template_number: int, system_prompt: str):
             request_options={'timeout': 600} # Extend timeout for large files
         )
 
-        # Write the response to the output file
+        # Process the response text
+        response_text = response.text.strip()  # Strip leading and trailing whitespace
+        
+        # Check if wrapped in markdown code block and strip if so
+        if response_text.startswith("```markdown") and response_text.endswith("```"):
+            response_text = response_text[11:-3].strip()  # Remove ```markdown from start and ``` from end
+        
+        # Write the processed response to the output file
         with open(output_path, "w") as f:
-            f.write(response.text)
+            f.write(response_text)
             
         print(f"✅ Successfully generated documentation for template {template_number}")
 
