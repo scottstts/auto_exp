@@ -20,7 +20,7 @@ END_TEMPLATE = 22
 # -----------------------------------------
 ```
 
-6. Build individual documentations inside each template folder.
+6. Run [Building Docs Script](build_docs.py) to build individual documentations inside each template folder.
 
 7. Check template folders to make sure all docs are built.
 
