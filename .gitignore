@@ -12,3 +12,10 @@
 # python related files
 **/__pycache__/
 **/.env
+
+# ignore Google API credentials everywhere
+client_secret.json
+token.json
+
+**/templates/
+Template Library.pptx.pdf
