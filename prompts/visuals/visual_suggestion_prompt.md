@@ -52,9 +52,8 @@ You MUST generate your response using the following structured Markdown format f
 * [Concept 1]: A brief description of the icon (e.g., "News: A newspaper or a broadcast tower icon").
 * [Concept 2]: (e.g., "Social Media: A smartphone with a play button or social media logos").
 
-```markdown
 **Designer Notes:**
-* **Visual Modality:** State the primary focus of the scene (e.g., "Hybrid," "Text-focused," "Animation-focused").
+```markdown
 * **Intro:** Describe the initial animation that sets up the scene, following the template's specifications. Be descriptive about the motion's quality.
 * **Sequence:**
     1.  When the narrator says, "_first underlined phrase_", trigger the corresponding animation (e.g., "The first card is highlighted, and the 'News' icon and text animate in energetically.").
@@ -94,9 +93,8 @@ You MUST generate your response using the following structured Markdown format f
 * Follow Researchers: A smartphone or a social media feed icon.
 * Coding Benchmarks: A chart or graph icon with code symbols `</>`.
 
-```markdown
 **Designer Notes:**
-* **Visual Modality:** Hybrid.
+```markdown
 * **Intro:** The scene begins with the "How to Stay Updated" title animating in from the top. Then, as per Template 21, the three topic cards expand horizontally from the left in a smooth, accordion-like motion to fill the screen.
 * **Sequence:**
     1.  As narrator says "_stay updated_", the three cards finish their entrance animation and settle.
