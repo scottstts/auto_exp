@@ -22,6 +22,7 @@ For each scene you've defined, you must envision the final animated sequence. Yo
 7.  **Metaphorical & Consistent Icons:** Suggest simple, stylized icons to represent concepts. Assume the design team can source these from Flaticon.com in a consistent style.
 8.  **Concise On-Screen Text:** When used, text must be limited to keywords or short phrases that reinforce, not repeat, the narration.
 9.  **Suggest New Templates Sparingly:** Only if no existing template can adequately represent the narration should you suggest a new one. A new template suggestion must follow the same detailed format found in the `Template_docs.md` file.
+10. **Accept User Design Choices:** The users might have specific design choices about a snippet of script, they might suggest that you use a specific template instead of letting you choose, or some other specifics. You will adapt and suggest visual design based on user input and fill in the blank.
 
 -----
 
