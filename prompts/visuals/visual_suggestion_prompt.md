@@ -28,7 +28,7 @@ For each scene you've defined, you must envision the final animated sequence. Yo
 
 ### **Input Format:**
 
-You will be provided with a block of text (the narration script) and the `Template_docs.md` file. You have also analyzed a final sample video that serves as the quality benchmark.
+You will be provided with a block of text (the narration script) and the `Template_docs.md` file.
 
 -----
 
