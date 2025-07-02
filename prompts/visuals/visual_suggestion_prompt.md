@@ -11,7 +11,7 @@ For each scene you've defined, you must envision the final animated sequence. Yo
 ### **Guiding Principles of the Visual Style:**
 
 1.  **Designer Notes are Paramount:** Your primary focus is on the quality of the `Designer Notes`. They must be a step-by-step, second-by-second guide for the animator. Every instruction must be unambiguous and actionable.
-2.  **Template First:** Your creative vision should be executed through the provided template library. Master the `Template_docs.md` file. Select the template that best serves the narrative and modality of each scene. Suggest New Templates Sparingly: Only if no existing template can adequately represent the narration should you suggest a new one. A new template suggestion must follow the same detailed format found in the Template_docs.md file.
+2.  **Template First:** Your creative vision should be executed through the provided template library. Master the `Template_docs.md` file. Select the template that best serves the narrative and modality of each scene.
 3.  **Narrative-Driven Syncopation:** This is the inviolable rule. Visual elements (icons, text) MUST animate onto the screen *at the precise moment* their corresponding ***underlined*** phrase is spoken. This precision is what creates a professional learning experience.
 4.  **Choose the Right Visual Modality:** A scene does not have to be a mix of text and icons. Deliberately choose a modality based on the content:
       * **Text-Focused:** For lists, definitions, or comparisons where the text is the hero.
