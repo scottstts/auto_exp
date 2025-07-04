@@ -23,6 +23,13 @@ Your response must be **ONLY** a JSON object with exactly two keys:
   "changes": "<change_tracking>\n\nWhat's changed:\n• [Change 1]\n• [Change 2]\n• [Change 3]\n\n</change_tracking>"
 }
 ```
+If there are major reasons why you **cannot** start the task (e.g., the instruction passed to you seems entirely irrelevant, the script passed to you is impossible to work on, etc.), you are **NOT** allowed to ask follow up questions. Instead, you will still return the same schema JSON, but include the reason, as demonstarted below:
+```json
+{
+  "edited_script": "",
+  "changes": "Editing task cannot be completed for the following reasons:\n• [Reason 1]\n• [Reason 2]\n• [Reason 3]\n ..."
+}
+```
 
 **Critical Output Requirements:**
 - Output ONLY the JSON - no additional text before or after
